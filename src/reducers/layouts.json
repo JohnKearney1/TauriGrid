@@ -1,0 +1,121 @@
+{
+    "layouts": [
+        {
+            "id": "init",
+            "layouts": {
+              "lg": [
+                { "i": "explorer", "x": 0, "y": 0, "w": 2, "h": 6 },
+                { "i": "home", "x": 2, "y": 0, "w": 10, "h": 4 },
+                { "i": "metadata", "x": 2, "y": 0, "w": 10, "h": 2 },
+                { "i": "commandprompt", "x": 0, "y": 10, "w": 2, "h": 1 },
+                { "i": "systemlogs", "x": 2, "y": 10, "w": 10, "h": 1 },
+                { "i": "preferences", "x": 10, "y": 10, "w": 1, "h": 1 }
+              ],
+              "sm": [
+                { "i": "explorer", "x": 0, "y": 0, "w": 2, "h": 6 },
+                { "i": "home", "x": 2, "y": 0, "w": 4, "h": 4 },
+                { "i": "metadata", "x": 2, "y": 0, "w": 4, "h": 2 },
+                { "i": "commandprompt", "x": 9, "y": 0, "w": 3, "h": 4 },
+                { "i": "systemlogs", "x": 6, "y": 0, "w": 3, "h": 2 },
+                { "i": "preferences", "x": 6, "y": 6, "w": 6, "h": 2 }
+              ]
+            },
+            "windowTitles": [
+              "Explorer",
+              "Home",
+              "Metadata",
+              "Command Prompt",
+              "System Logs",
+              "Preferences"
+            ]
+          },
+      {
+        "id": "Basic",
+        "layouts": {
+          "lg": [
+            { "i": "explorer", "x": 0, "y": 0, "w": 2, "h": 6 },
+            { "i": "home", "x": 2, "y": 0, "w": 10, "h": 4 },
+            { "i": "metadata", "x": 2, "y": 0, "w": 10, "h": 2 }
+          ],
+          "sm": [
+            { "i": "explorer", "x": 0, "y": 0, "w": 2, "h": 6 },
+            { "i": "home", "x": 2, "y": 0, "w": 4, "h": 4 },
+            { "i": "metadata", "x": 2, "y": 0, "w": 4, "h": 2 }
+          ]
+        },
+        "windowTitles": [
+          "Explorer",
+          "Home",
+          "Metadata"
+        ]
+      },
+      {
+        "id": "Advanced",
+        "layouts": {
+          "lg": [
+            { "i": "explorer", "x": 0, "y": 6, "w": 12, "h": 2 },
+            { "i": "home", "x": 0, "y": 1, "w": 6, "h": 3 },
+            { "i": "metadata", "x": 0, "y": 0, "w": 6, "h": 1 },
+            { "i": "commandprompt", "x": 6, "y": 0, "w": 6, "h": 4 }
+          ],
+          "sm": [
+            { "i": "explorer", "x": 0, "y": 4, "w": 6, "h": 2 },
+            { "i": "home", "x": 0, "y": 1, "w": 4, "h": 3 },
+            { "i": "metadata", "x": 0, "y": 0, "w": 4, "h": 1 },
+            { "i": "commandprompt", "x": 4, "y": 0, "w": 2, "h": 4 }
+          ]
+        },
+        "windowTitles": [
+          "Explorer",
+          "Home",
+          "Metadata",
+          "Command Prompt"
+        ]
+      },
+      {
+        "id": "Dev",
+        "layouts": {
+          "lg": [
+            { "i": "explorer", "x": 0, "y": 5, "w": 6, "h": 2 },
+            { "i": "home", "x": 0, "y": 0, "w": 6, "h": 4 },
+            { "i": "metadata", "x": 6, "y": 0, "w": 3, "h": 2 },
+            { "i": "commandprompt", "x": 9, "y": 0, "w": 3, "h": 4 },
+            { "i": "systemlogs", "x": 6, "y": 0, "w": 3, "h": 2 },
+            { "i": "preferences", "x": 6, "y": 6, "w": 6, "h": 2 }
+
+          ],
+          "sm": [
+            { "i": "explorer", "x": 0, "y": 0, "w": 4, "h": 1 },
+            { "i": "home", "x": 0, "y": 1, "w": 4, "h": 4 },
+            { "i": "metadata", "x": 6, "y": 7, "w": 2, "h": 1 },
+            { "i": "commandprompt", "x": 4, "y": 0, "w": 2, "h": 3 },
+            { "i": "systemlogs", "x": 0, "y": 5, "w": 4, "h": 1 },
+            { "i": "preferences", "x": 4, "y": 3, "w": 2, "h": 2 }
+          ]
+        },
+        "windowTitles": [
+          "Explorer",
+          "Home",
+          "Metadata",
+          "Command Prompt",
+          "System Logs",
+          "Preferences"
+        ]
+      },
+      {
+        "id": "Preferences",
+        "layouts": {
+          "lg": [
+            { "i": "preferences", "x": 0, "y": 0, "w": 12, "h": 6 }
+          ],
+          "sm": [
+            { "i": "preferences", "x": 0, "y": 0, "w": 6, "h": 6 }
+          ]
+        },
+        "windowTitles": [
+          "Preferences"
+        ]
+      }
+    ]
+  }
+  
