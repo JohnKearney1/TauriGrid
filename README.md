@@ -1,9 +1,9 @@
 # **TauriGrid**
 
-TauriGrid is a template for creating desktop applications using [Tauri](https://tauri.studio/en/) and [React](https://reactjs.org/). It has a pre-built grid layout that allows you to quickly prototype desktop applications by rendering multiple components at once and test their responsiveness. It also comes with a pre-built Redux store that allows you to defy scopes and manage states across the application with ease.
-
-This template has an emphasis on compex or large scale applications that require a high level of specificity within the codebase. The backend of the application is a Rust binary with an API that the front-end can interact with.
+TauriGrid is a template for creating desktop applications using [Tauri](https://tauri.studio/en/) and [React](https://reactjs.org/). It has a pre-built grid layout that allows you to quickly prototype desktop applications by rendering multiple flexible components at once to test their responsiveness. It also comes with a pre-built Redux store that allows you to defy scopes and manage states across the application with ease. 
   
+![TauriGrid Demo](https://raw.githubusercontent.com/JohnKearney1/TauriGrid/main/img/demo.gif)
+
 ### Note
 *This is a work in progress. Nothing is entirely optimized.*
 
@@ -30,7 +30,7 @@ Reccomended IDE Setup: [VS Code](https://code.visualstudio.com/) + [Tauri](https
 3. Install [Yarn](https://yarnpkg.com/getting-started/install)
 4. Install [Tauri](https://tauri.studio/en/docs/getting-started/intro)
 5. Install [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
-6. Clone this repository: `git clone <repo>` 
+6. Clone this repository: `git clone https://github.com/JohnKearney1/TauriGrid.git` 
 3. Open the directory: `cd TauriGrid`
 4. Install dependencies with yarn: `yarn`
 5. Start the app in development mode: `yarn tauri dev`
