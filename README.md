@@ -30,8 +30,9 @@ Reccomended IDE Setup: [VS Code](https://code.visualstudio.com/) + [Tauri](https
 3. Install [Yarn](https://yarnpkg.com/getting-started/install)
 4. Install [Tauri](https://tauri.studio/en/docs/getting-started/intro)
 5. Install [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
-6. Clone this repository: `git clone https://github.com/JohnKearney1/TauriGrid.git` 
-3. Open the directory: `cd TauriGrid`
+6. Clone this repository: `git clone https://github.com/JohnKearney1/TauriGrid.git`
+ or click the [**Use this Template**](https://github.com/JohnKearney1/TauriGrid/generate) button!
+3. Enter the directory: `cd TauriGrid`
 4. Install dependencies with yarn: `yarn`
 5. Start the app in development mode: `yarn tauri dev`
 
